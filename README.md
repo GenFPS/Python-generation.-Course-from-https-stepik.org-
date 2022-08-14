@@ -1,1 +1,1 @@
-# Python-generation.-Course-from-https-stepik.org-
+Test tasks for Python programmers.
